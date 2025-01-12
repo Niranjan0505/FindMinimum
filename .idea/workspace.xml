@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="099e7549-1498-491e-83e6-a7b64038673d" name="Changes" comment="add elementtofind">
-      <change afterPath="$PROJECT_DIR$/src/findArrayReverse.java" afterDir="false" />
+    <list default="true" id="099e7549-1498-491e-83e6-a7b64038673d" name="Changes" comment="add findArrayReverse">
+      <change afterPath="$PROJECT_DIR$/src/CharacterClassifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MissingNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,9 +36,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CharacterClassifier.executor": "Run",
     "Application.ElementToFind.executor": "Run",
     "Application.FindMinimum.executor": "Run",
     "Application.MergeArray.executor": "Debug",
+    "Application.MissingNumber.executor": "Run",
     "Application.findArrayReverse.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -86,14 +89,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736385430072</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add findArrayReverse">
+      <option name="closed" value="true" />
+      <created>1736391397907</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736391397907</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add three file" />
     <MESSAGE value="add merge class" />
     <MESSAGE value="add elementtofind" />
-    <option name="LAST_COMMIT_MESSAGE" value="add elementtofind" />
+    <MESSAGE value="add findArrayReverse" />
+    <option name="LAST_COMMIT_MESSAGE" value="add findArrayReverse" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
