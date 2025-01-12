@@ -20,13 +20,12 @@ public class CharacterClassifier {
             System.out.println("consonants:" + consonants);
             System.out.println("numbers:" + numbers);
         }
-        private static  boolean isVowel(char ch){
-        ch =Character.toLowerCase(ch);
-        return
- ch == 'a'|| ch =='e' || ch=='i' || ch =='o' ||ch == 'u';
+        private static  boolean isVowel(char ch) {
+            ch = Character.toLowerCase(ch);
+            return
+                    ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u';
 
         }
-    }
 
 
 
