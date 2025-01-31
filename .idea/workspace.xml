@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="099e7549-1498-491e-83e6-a7b64038673d" name="Changes" comment="add find vowel and number">
+    <list default="true" id="099e7549-1498-491e-83e6-a7b64038673d" name="Changes" comment="add IndexElementEqual">
+      <change afterPath="$PROJECT_DIR$/src/SubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CharacterClassifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CharacterClassifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ElementToFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ElementToFind.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,18 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Niranjan0505"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Niranjan0505&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Niranjan0505/FindMinimum.git",
-    "accountId": "db362787-ab3c-4ddd-aa62-05650c15f7e7"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Niranjan0505/FindMinimum.git&quot;,
+    &quot;accountId&quot;: &quot;db362787-ab3c-4ddd-aa62-05650c15f7e7&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -45,20 +48,83 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CharacterClassifier.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ElementToFind.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindMinimum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeArray.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.findArrayReverse.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CharacterClassifier.executor": "Run",
+    "Application.CharacterSting.executor": "Run",
+    "Application.ElementToFind.executor": "Run",
+    "Application.FactorialNumber.executor": "Run",
+    "Application.FibonacciSequence.executor": "Run",
+    "Application.FindMinimum.executor": "Run",
+    "Application.FindPrimeNumber.executor": "Run",
+    "Application.FindUniqueNumber.executor": "Run",
+    "Application.IndexElementEqual.executor": "Run",
+    "Application.MergeArray.executor": "Debug",
+    "Application.MissingNumber.executor": "Run",
+    "Application.RightsideStarPatten.executor": "Run",
+    "Application.StarPatten.executor": "Run",
+    "Application.SubArray.executor": "Run",
+    "Application.findArrayReverse.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/manikandanramasamy/Desktop/Ezhilarasi/mtsschool/FindMinimum/src",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SubArray">
+    <configuration name="FactorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactorialNumber" />
+      <module name="FindMinimum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindPrimeNumber" />
+      <module name="FindMinimum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexElementEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IndexElementEqual" />
+      <module name="FindMinimum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RightsideStarPatten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RightsideStarPatten" />
+      <module name="FindMinimum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubArray" />
+      <module name="FindMinimum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SubArray" />
+        <item itemvalue="Application.IndexElementEqual" />
+        <item itemvalue="Application.FindPrimeNumber" />
+        <item itemvalue="Application.RightsideStarPatten" />
+        <item itemvalue="Application.FactorialNumber" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -124,7 +190,87 @@
       <option name="project" value="LOCAL" />
       <updated>1736720361879</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add find vowel and number">
+      <option name="closed" value="true" />
+      <created>1736724366309</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1736724366309</updated>
+    </task>
+    <task id="LOCAL-00009" summary="find duplicates and find unique numbers">
+      <option name="closed" value="true" />
+      <created>1737420143383</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737420143383</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add findArrayReverse and findElementInArray and min and max">
+      <option name="closed" value="true" />
+      <created>1737420921093</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737420921093</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add character">
+      <option name="closed" value="true" />
+      <created>1737928056536</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1737928056536</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add FibonacciSequence">
+      <option name="closed" value="true" />
+      <created>1737929276401</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1737929276401</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add Star patten">
+      <option name="closed" value="true" />
+      <created>1737939428644</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1737939428644</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add factorialNumber">
+      <option name="closed" value="true" />
+      <created>1738017483102</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1738017483102</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add RightsideStarPatten">
+      <option name="closed" value="true" />
+      <created>1738113845338</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1738113845338</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add FindPrimeNumber">
+      <option name="closed" value="true" />
+      <created>1738114317648</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1738114317648</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add IndexElementEqual">
+      <option name="closed" value="true" />
+      <created>1738283138078</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1738283138078</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -133,7 +279,16 @@
     <MESSAGE value="add elementtofind" />
     <MESSAGE value="add findArrayReverse" />
     <MESSAGE value="add find vowel and number" />
-    <option name="LAST_COMMIT_MESSAGE" value="add find vowel and number" />
+    <MESSAGE value="find duplicates and find unique numbers" />
+    <MESSAGE value="add findArrayReverse and findElementInArray and min and max" />
+    <MESSAGE value="add character" />
+    <MESSAGE value="add FibonacciSequence" />
+    <MESSAGE value="add Star patten" />
+    <MESSAGE value="add factorialNumber" />
+    <MESSAGE value="add RightsideStarPatten" />
+    <MESSAGE value="add FindPrimeNumber" />
+    <MESSAGE value="add IndexElementEqual" />
+    <option name="LAST_COMMIT_MESSAGE" value="add IndexElementEqual" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
