@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="099e7549-1498-491e-83e6-a7b64038673d" name="Changes" comment="add IndexElementEqual">
-      <change afterPath="$PROJECT_DIR$/src/SubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="099e7549-1498-491e-83e6-a7b64038673d" name="Changes" comment="add SubArray">
+      <change afterPath="$PROJECT_DIR$/src/FindPairKey.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CharacterClassifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CharacterClassifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ElementToFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ElementToFind.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +53,7 @@
     "Application.FactorialNumber.executor": "Run",
     "Application.FibonacciSequence.executor": "Run",
     "Application.FindMinimum.executor": "Run",
+    "Application.FindPairKey.executor": "Run",
     "Application.FindPrimeNumber.executor": "Run",
     "Application.FindUniqueNumber.executor": "Run",
     "Application.IndexElementEqual.executor": "Run",
@@ -79,9 +77,9 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SubArray">
-    <configuration name="FactorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactorialNumber" />
+  <component name="RunManager" selected="Application.FindPairKey">
+    <configuration name="FindPairKey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindPairKey" />
       <module name="FindMinimum" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindPairKey" />
         <item itemvalue="Application.SubArray" />
         <item itemvalue="Application.IndexElementEqual" />
         <item itemvalue="Application.FindPrimeNumber" />
         <item itemvalue="Application.RightsideStarPatten" />
-        <item itemvalue="Application.FactorialNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738283138078</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add SubArray">
+      <option name="closed" value="true" />
+      <created>1738343174250</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1738343174250</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -288,7 +294,8 @@
     <MESSAGE value="add RightsideStarPatten" />
     <MESSAGE value="add FindPrimeNumber" />
     <MESSAGE value="add IndexElementEqual" />
-    <option name="LAST_COMMIT_MESSAGE" value="add IndexElementEqual" />
+    <MESSAGE value="add SubArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="add SubArray" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
