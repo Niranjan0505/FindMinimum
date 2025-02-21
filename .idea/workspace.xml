@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="099e7549-1498-491e-83e6-a7b64038673d" name="Changes" comment="add SubArray">
-      <change afterPath="$PROJECT_DIR$/src/FindPairKey.java" afterDir="false" />
+    <list default="true" id="099e7549-1498-491e-83e6-a7b64038673d" name="Changes" comment="add FindPairKey">
+      <change afterPath="$PROJECT_DIR$/src/DoubleValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FilterName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpaceCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,17 +52,21 @@
   "keyToString": {
     "Application.CharacterClassifier.executor": "Run",
     "Application.CharacterSting.executor": "Run",
+    "Application.DoubleValues.executor": "Debug",
     "Application.ElementToFind.executor": "Run",
     "Application.FactorialNumber.executor": "Run",
     "Application.FibonacciSequence.executor": "Run",
+    "Application.FilterName.executor": "Run",
     "Application.FindMinimum.executor": "Run",
     "Application.FindPairKey.executor": "Run",
     "Application.FindPrimeNumber.executor": "Run",
     "Application.FindUniqueNumber.executor": "Run",
+    "Application.FizzBuzz.executor": "Run",
     "Application.IndexElementEqual.executor": "Run",
     "Application.MergeArray.executor": "Debug",
     "Application.MissingNumber.executor": "Run",
     "Application.RightsideStarPatten.executor": "Run",
+    "Application.SpaceCounter.executor": "Debug",
     "Application.StarPatten.executor": "Run",
     "Application.SubArray.executor": "Run",
     "Application.findArrayReverse.executor": "Run",
@@ -77,30 +84,30 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindPairKey">
-    <configuration name="FindPairKey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindPairKey" />
+  <component name="RunManager" selected="Application.FilterName">
+    <configuration name="DoubleValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoubleValues" />
       <module name="FindMinimum" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindPrimeNumber" />
+    <configuration name="FilterName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FilterName" />
       <module name="FindMinimum" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IndexElementEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IndexElementEqual" />
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FizzBuzz" />
       <module name="FindMinimum" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RightsideStarPatten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RightsideStarPatten" />
+    <configuration name="SpaceCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpaceCounter" />
       <module name="FindMinimum" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindPairKey" />
+        <item itemvalue="Application.FilterName" />
+        <item itemvalue="Application.DoubleValues" />
+        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.SpaceCounter" />
         <item itemvalue="Application.SubArray" />
-        <item itemvalue="Application.IndexElementEqual" />
-        <item itemvalue="Application.FindPrimeNumber" />
-        <item itemvalue="Application.RightsideStarPatten" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +283,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738343174250</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add FindPairKey">
+      <option name="closed" value="true" />
+      <created>1738345828875</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1738345828875</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -295,7 +310,8 @@
     <MESSAGE value="add FindPrimeNumber" />
     <MESSAGE value="add IndexElementEqual" />
     <MESSAGE value="add SubArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="add SubArray" />
+    <MESSAGE value="add FindPairKey" />
+    <option name="LAST_COMMIT_MESSAGE" value="add FindPairKey" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -309,6 +325,21 @@
           <url>file://$PROJECT_DIR$/src/MergeArray.java</url>
           <line>7</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SpaceCounter.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SpaceCounter.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SpaceCounter.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
